@@ -1,5 +1,5 @@
-# MachineLearning-A-Z
-Machine Learning A-Z - Super data science course
+# Machine Learning A-Z
+Machine Learning A-Z - Udemy course
 
 * Part 1 - Data Preprocessing
     * 02 - Data Preprocessing
