@@ -5,3 +5,5 @@ Machine Learning A-Z - Udemy course
     * 02 - Data Preprocessing
 * Part 2 - Regression
     * 04 - Simple Linear Regression
+    * 05 - Multiple Linear Regression
+    * 06 - Polynomial Regression - Curve fitting
