@@ -8,3 +8,4 @@ Machine Learning A-Z - Udemy course
     * 05 - Multiple Linear Regression
     * 06 - Polynomial Regression - Curve fitting
     * 07 - Support Vector Regression (SVR)
+    * 08 - Decision Tree Regression
