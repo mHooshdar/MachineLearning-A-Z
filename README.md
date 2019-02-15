@@ -9,3 +9,6 @@ Machine Learning A-Z - Udemy course
     * 06 - Polynomial Regression - Curve fitting
     * 07 - Support Vector Regression (SVR)
     * 08 - Decision Tree Regression
+    * 09 - Random Forest Regression
+* Part 3 - Classification
+    * 12 - Logistic Regression
