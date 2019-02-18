@@ -12,4 +12,5 @@ Machine Learning A-Z - Udemy course
     * 09 - Random Forest Regression
 * Part 3 - Classification
     * 12 - Logistic Regression
-    * 13 -  K-Nearest Neighbors (K-NN)
+    * 13 - K-Nearest Neighbors (K-NN)
+    * 14 - Support Vector Machine (SVM)
