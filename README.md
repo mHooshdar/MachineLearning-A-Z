@@ -14,3 +14,4 @@ Machine Learning A-Z - Udemy course
     * 12 - Logistic Regression
     * 13 - K-Nearest Neighbors (K-NN)
     * 14 - Support Vector Machine (SVM)
+    * 15 - Kernel SVM
