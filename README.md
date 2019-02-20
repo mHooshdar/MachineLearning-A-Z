@@ -16,3 +16,4 @@ Machine Learning A-Z - Udemy course
     * 14 - Support Vector Machine (SVM)
     * 15 - Kernel SVM
     * 16 - Naive Bayes
+    * 17 - Decision Tree Classification
