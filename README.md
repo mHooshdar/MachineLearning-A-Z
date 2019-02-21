@@ -17,3 +17,4 @@ Machine Learning A-Z - Udemy course
     * 15 - Kernel SVM
     * 16 - Naive Bayes
     * 17 - Decision Tree Classification
+    * 18 - Random Forest Classification
