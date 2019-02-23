@@ -18,3 +18,5 @@ Machine Learning A-Z - Udemy course
     * 16 - Naive Bayes
     * 17 - Decision Tree Classification
     * 18 - Random Forest Classification
+* Part - 4 - Clustering
+    * 21 - K-Means Clustering
