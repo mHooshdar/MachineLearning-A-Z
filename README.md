@@ -20,3 +20,4 @@ Machine Learning A-Z - Udemy course
     * 18 - Random Forest Classification
 * Part 4 - Clustering
     * 21 - K-Means Clustering
+    * 22 - Hierarchical Clustering
