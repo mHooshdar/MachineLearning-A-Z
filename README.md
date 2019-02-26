@@ -21,3 +21,5 @@ Machine Learning A-Z - Udemy course
 * Part 4 - Clustering
     * 21 - K-Means Clustering
     * 22 - Hierarchical Clustering
+* Part 5 - Association Rule Learning
+    * 24 - Apriori
