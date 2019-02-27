@@ -23,3 +23,5 @@ Machine Learning A-Z - Udemy course
     * 22 - Hierarchical Clustering
 * Part 5 - Association Rule Learning
     * 24 - Apriori
+* Part6 - Reinforcement Learning
+    * 27 - Upper Confidence Bound
