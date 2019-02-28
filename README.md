@@ -25,3 +25,4 @@ Machine Learning A-Z - Udemy course
     * 24 - Apriori
 * Part6 - Reinforcement Learning
     * 27 - Upper Confidence Bound
+    * 28 - Thompson Sampling
